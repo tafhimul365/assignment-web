@@ -1,0 +1,87 @@
+body
+{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 30px;
+    font-weight: 800;
+}
+.colored{
+    color: orange;
+}
+section{
+    display: flex;
+    
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.half-width img{
+    width: 60%;
+}
+.border-color{
+    border-left: 5px solid rgb(240, 64, 64);
+    padding-left: 10px;
+}
+a{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(139, 50, 50), rgb(204, 17, 48));
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: 700;
+    color: white;
+
+}
+
+.blue-color{
+    color: rgb(2, 2, 78);
+}
+.orange-color{
+    color: orange;
+}
+.trip-head{
+    text-align:center;
+}
+.corona{
+    text-align:center;
+}
+.triple{
+    width: 30%;
+    padding:10px;
+    margin: 3%;
+    border-radius: 15px;
+
+}
+
+.triple img{
+    width: 100px;
+
+}
+.mission{
+    background-color: palegreen;
+}
+.vision{
+    background-color: rgb(168, 207, 247);
+}
+.goal{
+    background-color: rgb(240, 207, 247);
+}
+.back-image{
+background-image:url(images/shapes/shape-3.png);
+background-repeat: no-repeat;
+background-position-y: left;
+}
+.f-font{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+footer{
+    text-align: center;
+    background-color: rgba(1, 0, 7, 0.986);
+    color: white;
+    border: 0;
+}
+.red-color{
+        color: rgb(240, 64, 64);
+}
