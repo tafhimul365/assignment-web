@@ -85,3 +85,14 @@ footer{
 .red-color{
         color: rgb(240, 64, 64);
 }
+input{
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: 700;
+    
+    
+}
+.blank{
+    padding: 20px 300px;
+    border-radius: 5px;
+}
